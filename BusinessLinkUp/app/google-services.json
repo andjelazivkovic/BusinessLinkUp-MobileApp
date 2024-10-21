@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "432373920867",
+    "firebase_url": "https://busineinkup-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "busineinkup",
+    "storage_bucket": "busineinkup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432373920867:android:d36970be350362617a3456",
+        "android_client_info": {
+          "package_name": "com.example.businesslinkup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtiJ02YgQavhNefCNdmBns2lICVfbUzas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
